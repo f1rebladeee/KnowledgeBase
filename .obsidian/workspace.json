@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Necessary_info/Пентест.md",
+                "file": "Education/Necessary_info/SOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Necessary_info/Пентест.md",
+                "file": "Education/Necessary_info/SOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Necessary_info/Пентест.md",
+                "file": "Education/Necessary_info/SOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Necessary_info/Пентест.md"
+                "file": "Education/Necessary_info/SOC.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "41ee91b1d410fcf4",
+  "active": "94d02abfd01d67d4",
   "lastOpenFiles": [
-    "Без названия.md",
     "Education/Necessary_info/Пентест.md",
+    "Education/Necessary_info/SOC.md",
+    "Education/Necessary_info/RT_info.md",
+    "Без названия.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
     "Education/Выполненные цели/2024.md",
-    "Education/Necessary_info/RT_info.md",
     "Cache/Pasted image 20240819224817.png",
     "Cache/Pasted image 20240819224811.png",
     "Cache/Pasted image 20240819224804.png",
