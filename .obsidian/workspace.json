@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Necessary_info/SOC.md",
+                "file": "Education/Учёба/3 семестр/Иностранный язык.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Necessary_info/SOC.md",
+                "file": "Education/Учёба/3 семестр/Иностранный язык.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Necessary_info/SOC.md",
+                "file": "Education/Учёба/3 семестр/Иностранный язык.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Necessary_info/SOC.md"
+                "file": "Education/Учёба/3 семестр/Иностранный язык.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "94d02abfd01d67d4",
   "lastOpenFiles": [
+    "Education/Учёба/3 семестр/Успеваемость.md",
+    "Education/Учёба/3 семестр/Иностранный язык.md",
+    "Education/Учёба/3 семестр",
     "Education/Necessary_info/Пентест.md",
+    "Education/Учёба",
     "Education/Necessary_info/SOC.md",
+    "Cache/Pasted image 20240823153518.png",
     "Education/Necessary_info/RT_info.md",
     "Без названия.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
@@ -175,7 +180,6 @@
     "Templates/Book Template.md",
     "Cache/Pasted image 20240812183223.png",
     "Education/Книги/2024/!Синтаксис языка запросов PDQL.md",
-    "Cache/Pasted image 20240727124319.png",
     "Education/Книги/2024/!Командная строка LINUX.md",
     "Education/Книги/2024/!Docker без секретов.md",
     "Welcome.md",
@@ -183,17 +187,12 @@
     "Education/Ежедневник/Без названия.md",
     "Без названия",
     "Daily/2024-05-16.md",
-    "Daily/2024-05-02.md",
-    "Daily/2024-12-01.md",
-    "Daily/2024-01-05.md",
     "Education/Книги/2024/Без названия.canvas",
     "Daily",
     "Education/Книги/2024",
     "Education/Ежедневник/2024",
     "Education/Выполненные цели/Сортировка",
     "Education/Книги",
-    "Education/Ежедневник",
-    "Education/Выполненные цели",
-    "Education"
+    "Education/Ежедневник"
   ]
 }
